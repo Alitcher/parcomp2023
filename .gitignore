@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Exclude Visual Studio directory
+.vs/
+# Exclude Visual Studio Code directory
+.vscode/
+
+# Exclude IntelliJ IDEA directory
+.idea/
