@@ -1,0 +1,8 @@
+﻿  Alicia-OpenCLHomework.cpp
+D:\Somying's\Job\ADMISSION\Tartu\MSC\Parallel\parcomp2023\6-Alicia-OpenCLHomework\Alicia-OpenCLHomework.cpp(42,29): warning C4101: 'e': unreferenced local variable
+D:\Somying's\Job\ADMISSION\Tartu\MSC\Parallel\parcomp2023\6-Alicia-OpenCLHomework\Alicia-OpenCLHomework.cpp(141,36): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Alicia-OpenCLHomework.vcxproj -> D:\Somying's\Job\ADMISSION\Tartu\MSC\Parallel\parcomp2023\6-Alicia-OpenCLHomework\Debug\Alicia-OpenCLHomework.exe

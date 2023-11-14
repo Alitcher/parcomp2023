@@ -1,0 +1,3 @@
+D:\Somying's\Job\ADMISSION\Tartu\MSC\Concurrent\Homework\HW4\Alicia-OpenCLHomework\Debug\Alicia-OpenCLHomework.exe
+D:\Somying's\Job\ADMISSION\Tartu\MSC\Parallel\HW7\Alicia-OpenCLHomework\Debug\Alicia-OpenCLHomework.exe
+D:\Somying's\Job\ADMISSION\Tartu\MSC\Parallel\parcomp2023\6-Alicia-OpenCLHomework\Debug\Alicia-OpenCLHomework.exe
